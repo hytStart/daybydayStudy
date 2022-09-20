@@ -111,3 +111,8 @@ const flatten = array => array.reduce((acc, cur) => (Array.isArray(cur) ? [...ac
 https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/59#issue-424008233
 
 https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/59#issuecomment-475518785
+
+
+17. 手写实现 todo
+
+https://muyiy.cn/blog/3/3.3.html#call%E7%9A%84%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0 
