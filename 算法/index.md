@@ -24,3 +24,6 @@ https://github.com/afatcoder/LeetcodeTop
 https://github.com/SharingSource/LogicStack-LeetCode/wiki
 
 提纲：https://leetcode.cn/leetbook/detail/high-frequency-algorithm-exercise/
+
+
+牛客网题目：https://www.nowcoder.com/exam/oj?fromPut=ad_baidu_sem_wushuang_biancheng0909&bd_vid=11238292272447270737
